@@ -1,0 +1,16 @@
+com\project\purchaseAnalysis\models\PurchaseDataRequest.class
+com\project\purchaseAnalysis\controllers\PurchaseAnalysisDataUploadController.class
+com\project\purchaseAnalysis\models\UsersDetailsResponse.class
+com\project\purchaseAnalysis\mappers\EmailIDMapper.class
+com\project\purchaseAnalysis\models\EmailIdValues.class
+com\project\purchaseAnalysis\services\PurchaseAnalysisDataUploadService.class
+com\project\purchaseAnalysis\models\UserDetailsRequest.class
+com\project\purchaseAnalysis\util\UserAndPurchaseDataValidations.class
+com\project\purchaseAnalysis\models\UserAuthenticationResponse.class
+com\project\purchaseAnalysis\mappers\UserDetailsMapper.class
+com\project\purchaseAnalysis\models\PurchaseData.class
+com\project\purchaseAnalysis\dao\PurchaseAnalysisdataUploadDao.class
+com\project\purchaseAnalysis\mappers\PurchaseDataRowmapper.class
+com\project\purchaseAnalysis\models\ResponseBodyPojo.class
+com\project\purchaseAnalysis\PurchaseAnalysisDataUploadApplication.class
+com\project\purchaseAnalysis\models\UserDataRequestBody.class
